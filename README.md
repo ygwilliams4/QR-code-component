@@ -11,19 +11,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
     - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ygwilliams4.github.io/QR-code-component/)
+- Solution URL: [View solution](https://your-solution-url.com)
+- Live Site URL: [View live site](https://ygwilliams4.github.io/QR-code-component/)
 
 ## My process
 
