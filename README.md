@@ -17,13 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ygwilliams4.github.io/QR-code-component/)
 
 ## My process
 
@@ -36,4 +36,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@ygwilliams4](https://www.frontendmentor.io/profile/ygwilliams4)
-- Twitter - [@yourusername](https://www.twitter.com/ygwilliams4)
+- Twitter - [@ygwilliams4](https://www.twitter.com/ygwilliams4)
